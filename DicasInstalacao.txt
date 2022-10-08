@@ -1,0 +1,12 @@
+Link para download do .net 6
+https://dotnet.microsoft.com/en-us/download
+
+Link para download do visual studio code
+https://code.visualstudio.com/download
+
+Extensões Úteis para o VsCode:
+- C# for Visual Studio Code (Microsoft)
+- C# Extensions (JosKreativ)
+- C# Snippets (Jorge Serrano)
+- vscode-icons (VSCode Icons Team)
+- vscode-solution-explorer (Fernando Escolar)
